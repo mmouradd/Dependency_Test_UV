@@ -1,0 +1,9 @@
+runtime:
+  request_timeout: 5
+  debug: false
+
+storage:
+  db_path: "./data.json"
+
+scheduler:
+  interval_minutes: 30
